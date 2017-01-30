@@ -1,0 +1,28 @@
+{
+  "name": "DonationBot",
+  "version": "1.0.0",
+  "description": "A Twitter donation bot",
+  "main": "bot.js",
+  "dependencies": {
+    "twit": "^2.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node bot.js",
+    "test": "node bot.js"
+  },
+  "repository": {
+    "type": "",
+    "url": ""
+  },
+  "keywords": [
+    "node",
+    "js",
+    "twitter",
+    "bot",
+    "debashis",
+    "barman"
+  ],
+  "author": "kbone",
+  "license": "http://creativecommons.org/licenses/by-sa/3.0"
+}
